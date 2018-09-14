@@ -1,2 +1,1 @@
-#Setup repository for new application
-# Jyrki
+# DamienTest
